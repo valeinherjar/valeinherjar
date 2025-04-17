@@ -1,6 +1,6 @@
 ## Hello! 
 
-I'm fairly new to the developer scene having only worked with Python and MATLAB for my Bachelor's in Mechanical Engineering.
+I'm fairly new to the developer scene having only worked with Python and MATLAB for my Bachelor's in Mechanical Engineering and data analysis for consulting.
 I've spent the last decade managing projects and teams for operational efficiency and management behavioral coaching.
 I want to do the same for the software development world and have a keen interest in the development of AI and LLMs. 
 
